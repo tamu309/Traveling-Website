@@ -1,0 +1,13 @@
+#CardDiv{
+box-sizing: border-box;
+box-shadow: 2px 3px 2px 3px #eae8e8;
+background-color: white;
+}
+@media screen and (max-width:576px) {
+
+    #ChooseSectionImg{
+        width: 370px;
+        padding:10px;
+    }
+    
+}
